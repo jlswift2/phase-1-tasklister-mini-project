@@ -35,3 +35,26 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+#list h2 {
+  font-size: 30px;
+}
+
+li {
+  font-size: 20px;
+}
+
+.low_prio {
+  color: green;
+  text-shadow: #000 0px 0px 1px;
+}
+
+.medium_prio {
+  color: yellow;
+  text-shadow: #000 0px 0px 3px;
+}
+
+.high_prio {
+  color: red;
+  text-shadow: #000 0px 0px 1px;
+}
